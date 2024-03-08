@@ -30,6 +30,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Infinity]
 enabled = true
+included-patches = "'Spoof client' 'Unlock subscription'"
 apkmirror-dlurl = "https://apkmirror.com/apk/docile-alligator/infinity-for-reddit"
 build-mode = "module"
 version = "auto"
