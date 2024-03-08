@@ -27,3 +27,9 @@ build-mode = "both"
 version = "auto"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Enable debug logging' 'Custom branding heading'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+
+[Infinity]
+enabled = true
+apkmirror-dlurl = "https://apkmirror.com/apk/docile-alligator/infinity-for-reddit"
+build-mode = "module"
+version = "auto"
